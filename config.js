@@ -26,14 +26,14 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '5a21c71593d873fd5d44ed3af28c5aa0', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '39.915',
+  defaultLongitude: '-86.212',
 
   // Autochange
   autoChangeTheme: true,
@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'shapez.io',
+      icon: '<object type="image/svg+xml" data="assets/icons/shapez-io.svg"></object>',
+      link: 'https://shapez.io',
     },
     {
       id: '4',
