@@ -28,7 +28,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   weatherKey: '5a21c71593d873fd5d44ed3af28c5aa0', // Write here your API Key
-  weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+  weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -67,14 +67,14 @@ const CONFIG = {
     {
       id: '3',
       name: 'shapez.io',
-      icon: '<object type="image/svg+xml" data="assets/icons/shapez-io.svg"></object>',
+      icon: 'gamepad-2',
       link: 'https://shapez.io',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Gitpod',
+      icon: 'file-code',
+      link: 'https://gitpod.io/',
     },
     {
       id: '5',
