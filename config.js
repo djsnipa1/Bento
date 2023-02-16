@@ -14,7 +14,7 @@ const CONFIG = {
 	// General
   name: 'Chad',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: true,
 
 
@@ -66,9 +66,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'shapez.io',
+      name: 'Xbox Cloud',
       icon: 'gamepad-2',
-      link: 'https://shapez.io',
+      link: 'https://www.xbox.com/en-US/play',
     },
     {
       id: '4',
